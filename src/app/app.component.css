@@ -1,0 +1,27 @@
+.api-buttons {
+  margin: 10em;
+}
+.valid-button {
+  padding: 2em;
+  border: 1px solid;
+  margin: 2em;
+  background-color: greenyellow;
+  color: black;
+}
+.valid-button:hover {
+  color: white;
+  background-color: black;
+  cursor: pointer;
+}
+.fake-button {
+  padding: 2em;
+  border: 1px solid;
+  margin: 2em;
+  background-color: red;
+  color: black;
+}
+.fake-button:hover {
+  color: white;
+  background-color: black;
+  cursor: pointer;
+}
